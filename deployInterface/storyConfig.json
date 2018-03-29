@@ -1,0 +1,19 @@
+{
+    "GlobalSetting" : 
+    {
+        "StoryChainJson" : "../../../build/contracts/StoryChain.json",
+        "FrontCoverJson" : "../../../build/contracts/FrontCover.json",
+        "NewGas": 4712388,
+        "NewGasPrice": 18000000000
+    },
+    "48Private" :
+    {
+        "Provider" : "http://192.168.1.48:8545",
+        "Account" : "0x084f64b5d7aec9f673ed4dc9f78756cfee9807aa"
+    },
+    "local" :
+    {
+        "Provider" : "http://127.0.0.1:7545",
+        "Account" : "0x627306090abaB3A6e1400e9345bC60c78a8BEf57"
+    }
+}
